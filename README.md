@@ -1,4 +1,4 @@
-# iOS-Application---Find-Stormtroopers
+# iOS-Application-Find-Stormtroopers
 ## Introduction
 Inspired by Pokémon GO, I am really interested in augmented reality application.    
 So I would like to practice and design an augmented reality hunting game of Star Wars for Star Wars funs. 
